@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #59EA3A;
+    text-align: center;
+    background-color: ;
+}
+h2 {
+    color: #3DA028;
+    text-align: center;
+    font-size:  30px;
+}
+img {
+    height: 140px;
+}
+
+img {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.a {
+  width: 250px;
+}
+main {
+    background-color: #373636;
+}
+p {
+    color: #67E300;
+}
+.b{
+    width: 350px;
+    height: 190px;
+
+
+}
